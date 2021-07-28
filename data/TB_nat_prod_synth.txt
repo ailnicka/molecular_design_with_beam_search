@@ -1,0 +1,9 @@
+N=C(N)NCCCCNC(=O)/C(Cc1cc(Br)c(OCCCN)c(Br)c1)=N/O
+O=c3c1ccccc1n4c(=O)c2ccccc2nc34
+COc2cc(C=c1nc(N)[nH]c1=O)ccc2O
+Nc2nc(=Cc1ccc(O)c(O)c1)c(=O)[nH]2
+OCCc1ccc(O)cc1
+O=C(O)Cc1ccc(O)cc1
+NC(=O)Cc1ccc(O)cc1
+NC(=O)Cc1ccc(O)c(Cl)c1
+O=C(O)Cc1ccc(O)c(Cl)c1
